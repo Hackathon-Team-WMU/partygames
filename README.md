@@ -4,6 +4,9 @@ A simple, turn-based darts mini-game for Minecraft 1.21.1 using NeoForge. You ca
 
 Built for the [Sprint.dev Minecraft Hackathon](https://www.sprint.dev/hackathons/minecrafthack).
 
+[![Demo](https://img.youtube.com/vi/DpMUYSKy9is/0.jpg)](https://www.youtube.com/watch?v=DpMUYSKy9is)
+
+
 ---
 
 ## Overview
